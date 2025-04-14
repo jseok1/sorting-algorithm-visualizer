@@ -26,7 +26,7 @@ $ pip install pygame
 ```
 
 ## Usage
-To launch the visualizer, simply run the `Main.py` module.
+To launch the visualizer, simply run `main.py`.
 
 The following keys map to the following algorithms.
 * `1` - Bubble Sort
